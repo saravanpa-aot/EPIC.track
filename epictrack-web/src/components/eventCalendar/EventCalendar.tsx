@@ -13,7 +13,7 @@ const extendedMoment = extendMoment(Moment);
 // extendedMoment./
 const titleStyle: SxProps = {
   gridColumn: "span 7",
-  borderBottom: "1px solid #ccd6eb",
+  borderBottom: "1px solid #ccjd6eb",
   borderTop: "2px solid #a7bce8",
 
   textAlign: "center",
