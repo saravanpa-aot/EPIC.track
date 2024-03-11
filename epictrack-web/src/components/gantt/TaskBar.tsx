@@ -50,7 +50,7 @@ const TaskBar = ({ task }: TaskBar) => {
             flexDirection: "row",
             justifyContent: "space-between",
             alignItems: "center",
-            paddingLeft: "8px",
+            paddingLeft: "9px",
             paddingRight: "8px",
             gap: 2,
             overflow: "hidden",
