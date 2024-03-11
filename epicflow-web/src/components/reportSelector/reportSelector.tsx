@@ -12,7 +12,7 @@ export default function ReportSelector() {
   return (
     <>
       <Grid container>
-        <Grid item sm={2}>
+        <Grid item sm={3}>
           <FormLabel>Report</FormLabel>
         </Grid>
         <Grid item sm={5}>
