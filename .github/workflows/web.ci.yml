@@ -67,7 +67,7 @@ jobs:
         uses: cypress-io/github-action@v5
         with:
           install-command: npm install
-          working-directory: ./epictrack-web/cypress
+          working-directory: ./epictrack-web/
           component: true
 
       # # Set codecov branch name with prefix if pull request
