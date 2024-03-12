@@ -68,6 +68,7 @@ jobs:
         with:
           install-command: npm install
           working-directory: ./epictrack-web/cypress
+          component: true
 
       # # Set codecov branch name with prefix if pull request
       # - name: Sets Codecov branch name
