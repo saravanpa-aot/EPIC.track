@@ -64,7 +64,7 @@ jobs:
           npm install --legacy-peer-deps
 
       - name: Cypress run
-        uses: cypress-io/github-action@v5
+        uses: cypress-io/github-action@v6
         with:
           install-command: npm install
           working-directory: ./epictrack-web/
